@@ -25,7 +25,7 @@ springMVC
 
 #### 安装教程
 最新教程地址：http://pgymeeting.mingtianjian.net/
-1. [windows服务器端安装包（必须安装）](http://www.pgy365.cn/demo/pgymeeting20180425.rar)---[安装说明](http://www.pgy365.cn/demo/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.doc)
+1. [windows服务器端安装包（必须安装）](https://www.mingtianjian.net/tomcat/software/pgymeetingfree/pgymeeting20180926.rar)---[安装说明](http://www.pgy365.cn/demo/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.doc)
 2. [windows客户端](http://www.mingtianjian.net/demo/meeting.rar)---[安装使用说明](http://www.pgy365.cn/demo/%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.doc)
 3. [Mac客户端](http://www.mingtianjian.net/demo/mac.zip)---[安装使用说明](http://www.pgy365.cn/demo/%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.doc)
 
